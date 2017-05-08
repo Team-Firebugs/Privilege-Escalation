@@ -1,2 +1,1 @@
-# Privilege-Escalation
-This contains common local exploits and enumeration scripts
+Replaced with https://github.com/abatchy17/WindowsExploits which focuses on pre-compiled Windows exploits.
